@@ -1,9 +1,9 @@
 # Scala Rest API with ScalikeJDBC and Akka HTTP
 
-- This project will help you to build Rest API using Akka HTTP. It will also help you to perform database operations using ScalikeJDBC.
-- ScalikeJDBC is a SQL-based DB access library for Scala developers. This library naturally wraps JDBC APIs and provides you easy-to-use APIs. It allows writing SQL queries and mapping java.sql.ResultSet objects to Scala values.
-- In this project, Connection Pooling approach is used for DB connection management.
-- In this project, Akka HTTP is used which provides high-level routing APIs via a DSL to create and define the HTTP routes and how they should be handled. Each route is composed of one or more Directives in a nested fashion that defines how the request and response should be handled.
+- This template will help you to build Rest API using Akka HTTP. It will also help you to perform database operations using ScalikeJDBC.
+- In this template, ScalikeJDBC is used which is a SQL-based DB access library for Scala developers. This library naturally wraps JDBC APIs and provides you easy-to-use APIs. It allows writing SQL queries and mapping java.sql.ResultSet objects to Scala values.
+- In this template, Connection Pooling approach is used for DB connection management.
+- In this template, Akka HTTP is used which provides high-level routing APIs via a DSL to create and define the HTTP routes and how they should be handled. Each route is composed of one or more Directives in a nested fashion that defines how the request and response should be handled.
 
 ## Prerequisites
 
